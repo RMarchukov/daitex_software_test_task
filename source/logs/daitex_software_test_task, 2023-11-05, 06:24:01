@@ -1,0 +1,5 @@
+Result:
+Traceback (most recent call last):
+  File "/Users/mac/Desktop/back_projects/daitex_software_test_task/main.py", line 9, in main
+    print(a)
+NameError: name 'a' is not defined
