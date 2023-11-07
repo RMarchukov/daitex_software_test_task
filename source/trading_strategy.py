@@ -12,4 +12,3 @@ elif RSIBANDS_LB < 70:
     time.sleep(60)
     if RSIBANDS_LB > 70 and CCI > 120:
         print("відкрити SHORT з TP 1.1% та SL 0.5%")
-
